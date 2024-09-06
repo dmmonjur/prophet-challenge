@@ -34,7 +34,7 @@ Jupyter Notebook (prophet_challenge.ipynb): Contains all code for reading and an
    pip install pandas matplotlib seaborn prophet
 
 
-3. **Run the Analysis Open the Jupyter Notebook (athletic_sales_analysis.ipynb) and run the cells to perform the analysis.**
+3. **Run the Analysis Open the Jupyter Notebook (prophet_challenge.ipynb) and run the cells to perform the analysis.**
 
 
 
