@@ -1,8 +1,7 @@
 # prophet-challenge
 
 **Project Overview**
-
-You are tasked with analyzing the Google search traffic and stock price data for MercadoLibre, the most popular e-commerce site in Latin America. The goal of this analysis is to identify patterns in search traffic and investigate any potential relationship with stock price movements. The steps are divided into four main sections:
+Analyzing the Google search traffic and stock price data for MercadoLibre, the most popular e-commerce site in Latin America. The goal of this analysis is to identify patterns in search traffic and investigate any potential relationship with stock price movements. The steps are divided into four main sections:
 
 Find Unusual Patterns in Google Search Traffic
     Mine the Search Traffic Data for Seasonality
