@@ -76,12 +76,12 @@ Prepare the search trends data for time series forecasting using Prophet.
         Days of the week with the highest traffic
         Lowest point of search traffic in the calendar year
 
-**Key Insights**
+## Key Insights
 
 The analysis reveals significant trends in search traffic during specific times and market events.
 By leveraging search traffic data, it may be possible to predict stock market movements and make strategic investment decisions.
 The time series forecast helps identify patterns in user interest throughout the day, week, and year, offering opportunities to optimize marketing efforts.
 
-**Conclusion**
+## Conclusion
 
 This project demonstrates how search traffic data can be analyzed and used to forecast potential stock market trends, providing actionable insights to help MercadoLibre grow.
