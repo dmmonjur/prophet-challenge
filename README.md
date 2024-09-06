@@ -20,7 +20,7 @@ Jupyter Notebook (prophet_challenge.ipynb): Contains all code for reading and an
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/dmmonjur/athletic_sales_analysis.git
+   git clone https://github.com/dmmonjur/prophet-challenge.git
 
 
 2. **Install Dependencies**
